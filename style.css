@@ -1,0 +1,42 @@
+.product-card{
+    border: 1px solid black;
+    width: 300px;
+    padding: 10px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+
+img{
+    border-radius: 20px;
+}
+
+#title{
+    font-size: x-large;
+    margin: 15px;
+}
+
+#price{
+    font-size: larger;
+    margin: 15px;
+}
+
+#old-price{
+    font-size: larger;
+    margin: 15px;
+    text-decoration: line-through;
+}
+
+#btn{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20px;
+    padding: 10px 50px;
+
+}
+
+h1{
+    background-color: black;
+    border: 2PX solid white;
+    border-radius: 150PX;
+    color: white;
+}
